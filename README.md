@@ -2,14 +2,7 @@
 open source resume(html+js+css)
 
 <h2>开源简历（open source resume）</h2>
-自己应聘做了一个简历,喜欢的可以去改成自己；
-code写的也不够标准，有兴趣的可以协助修改下。
+This is a modified resume & portfolio template inspired by [Iduo](https://github.com/lduo/resume) built with HTML + CSS + JS. There were some long gaps between starting and finishing this without any documentation (or clue as to what I'm doing). AI was used at some point, very unskillfully, so there is a lot of bloat. Feel free to modify or improve on it. 
 
-一些特色：
-<ul>
-  <li>响应式布局</li>
-  <li>局部打印</li>
-  <li>语音操作</li>
-</ul>
 
 
