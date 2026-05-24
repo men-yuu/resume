@@ -42,13 +42,13 @@ Appointment scheduling are handled by 3rd party sites.
 Recommended scheduling services (with free tiers):
 - Calendly - https://calendly.com/
 - Cal.com - https://cal.com 
-- Google Calendar Appointment Scheduling - http://workspace.google.com/resources/appointment-scheduling/ - If you already use G Suite Workplace
-- Microsoft Bookings - https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app - If you already use Microsoft 365
+- Google Calendar Appointment Scheduling - http://workspace.google.com/resources/appointment-scheduling/ - If existing Google Workplace user
+- Microsoft Bookings - https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app - If existing Microsoft 365 user
 
 
 ### Social Media Icons
 
-Icons are loaded using Bootstrap Icons CDN (https://icons.getbootstrap.com/).
+Icons are loaded using Bootstrap Icons CDN - https://icons.getbootstrap.com/.
 
 
 ## Deployment
