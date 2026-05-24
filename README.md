@@ -15,14 +15,6 @@ Includes:
 ## Live Demo
 https://men-yuu.github.io/resume/
 
-## Project Structure
-
-/index.html         Main website file.
-/css                Stylesheets
-/js                 JavaScript files
-/img             	Images, resume PDF, QR codes
-
-
 ## Customization Guide
 
 ### QR Code Setup
