@@ -11,12 +11,10 @@ Includes:
 - Social media links
 - Mobile-friendly design
 
----
 
 ## Live Demo
 https://men-yuu.github.io/resume/
 
----
 ## Project Structure
 
 /index.html         Main website file.
@@ -24,7 +22,7 @@ https://men-yuu.github.io/resume/
 /js                 JavaScript files
 /img             	Images, resume PDF, QR codes
 
----
+
 ## Customization Guide
 
 ### QR Code Setup
@@ -36,7 +34,7 @@ Recommended:
 - CvCard QR Code Generator - https://vahac.com/tools/vcard-qr-code-generator/
 - Business Card Generator - https://business-card-generator.vercel.app/
 
----
+
 ### Appointment Scheduling
 
 Appointment scheduling are handled by 3rd party sites. 
@@ -47,12 +45,11 @@ Recommended scheduling services (with free tiers):
 - Google Calendar Appointment Scheduling - http://workspace.google.com/resources/appointment-scheduling/ - If you already use G Suite Workplace
 - Microsoft Bookings - https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app - If you already use Microsoft 365
 
----
+
 ### Social Media Icons
 
 Icons are loaded using Bootstrap Icons CDN (https://icons.getbootstrap.com/).
 
----
 
 ## Deployment
 This project is configured for static hosting.
@@ -62,6 +59,6 @@ Recommended static hosting:
 - Netlify - https://www.netlify.com/
 - Vercel - https://vercel.com/
 
----
+
 ## License
 MIT
